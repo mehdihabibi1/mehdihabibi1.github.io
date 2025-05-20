@@ -20,13 +20,13 @@
 				$texte = stripslashes($texte);
 
 				// Recipient and subject of the message
-				$destinataire = "habibimehdi1991@gmail.com"; // input your email here
+				$destinataire = "contact@gmail.com"; // input your email here
 				$objet = "Message from your < site name >"; // input your domain name here
 
 				// Headers
 	      $headers = array(
 	                      'Content-type' => 'text/html',
-	                      'From' => 'form@gmail.com', // input your email from here
+	                      'From' => 'form@yourbandname.com', // input your email from here
 	                      'X-Mailer' => 'PHP/' . phpversion()
 	                  );
 
