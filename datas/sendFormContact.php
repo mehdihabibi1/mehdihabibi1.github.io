@@ -26,7 +26,7 @@
 				// Headers
 	      $headers = array(
 	                      'Content-type' => 'text/html',
-	                      'From' => 'form@yourbandname.com', // input your email from here
+	                      'From' => 'habibimehdi1991@gmail.com', // input your email from here
 	                      'X-Mailer' => 'PHP/' . phpversion()
 	                  );
 
