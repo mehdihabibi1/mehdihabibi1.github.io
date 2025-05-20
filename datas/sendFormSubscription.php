@@ -12,7 +12,7 @@
 				$texte = stripslashes($texte);
 
 				/// Recipient and subject of the message
-				$destinataire = "contact@gmail.com"; // input your email here
+				$destinataire = "habibimehdi1991@gmail.com"; // input your email here
 				$objet = "Newsletter subscription from your < site name >"; // input your domain name here
 
 				//Headers
