@@ -58,7 +58,7 @@ body {
   right: 5%;
   width: 50px;
   height: 50px;
-  background-color: #405802;
+  background-color: #1A1B1D;
   border: solid 2px #405802;
   border-radius: 50%;
   cursor: pointer;
@@ -127,7 +127,7 @@ body {
   transition: all ease-in-out 100ms;
 }
 .ss-menu:hover {
-  background-color: #556B2F;
+  background-color: #405802;
   transition: all ease-in-out 100ms;
 }
 
@@ -267,7 +267,7 @@ h2#slogan {
   bottom: 10%;
   font-size: 5vh;
   font-weight: 600;
-  color: #F4591E;
+  color: #405802;
   text-shadow: 0 2px 10px #1A1B1D;
   opacity: 0;
   transform: translateY(-45px);
@@ -498,7 +498,7 @@ form.newsletterForm input[type=submit] {
 }
 form.newsletterForm input[type=submit]:hover {
   transition: all 250ms cubic-bezier(0, 0.69, 0.46, 0.95);
-  color: #F4591E;
+  color: #1A1B1D;
   transform: translateX(5px);
 }
 
@@ -544,7 +544,7 @@ form.newsletterForm input[type=submit]:hover {
   letter-spacing: 0.8rem;
   transition: all ease-in-out 250ms;
   color: white;
-  background-color: #F4591E;
+  background-color: #1A1B1D;
 }
 .contactForm .inscriptionCheck {
   display: flex;
@@ -565,7 +565,7 @@ form.newsletterForm input[type=submit]:hover {
 
 .hidePara {
   margin: 0;
-  color: #F4591E;
+  color: #1A1B1D;
 }
 
 ::-webkit-input-placeholder {
@@ -667,7 +667,7 @@ button[name=backSite] {
   max-width: 250px;
   margin: 25px;
   padding: 10px;
-  background-color: #F4591E;
+  background-color: #1A1B1D;
   font-size: 2.5vh;
   font-weight: bolder;
   color: white;
