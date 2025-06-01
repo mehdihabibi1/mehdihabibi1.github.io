@@ -824,3 +824,23 @@ button[name=backSite] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+@media screen and (max-width: 767px) {
+  .mainView {
+    background-image: url("../img/bcc-free-template-rock-hard1.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+  h1 {
+    bottom: 35%;
+    font-size: 5vh;
+  }
+
+  h2#slogan {
+    bottom: 15%;
+    font-size: 3.5vh;
+  }
+}
