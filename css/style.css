@@ -828,19 +828,22 @@ button[name=backSite] {
 @media screen and (max-width: 767px) {
   .mainView {
     background-image: url("../img/bcc-free-template-rock-hard1.jpg");
-    background-position: center top;
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain; /* مهم */
+    background-color: black;
     min-height: 100vh;
   }
 
   h1 {
-    bottom: 35%;
-    font-size: 5vh;
+    bottom: 25%;
+    font-size: 4vh;
+    width: 90%;
   }
 
   h2#slogan {
-    bottom: 15%;
-    font-size: 3.5vh;
+    bottom: 10%;
+    font-size: 2.5vh;
+    width: 90%;
   }
 }
